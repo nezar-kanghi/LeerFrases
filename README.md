@@ -1,0 +1,1 @@
+En este ejercicio leemos un fichero de texto llamado frases.txt, utilizamos BufferedReader junto con FileReader. Mediante un bucle while leemos cada linea con readLine() hasta que devuelva null, imprimiendo cada frase en una linea separada. añadimos IOException.
